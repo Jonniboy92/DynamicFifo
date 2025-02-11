@@ -1,5 +1,9 @@
 # DynamicFifo
 
+
+
+## 📜 Description
+
 DynamicFifo is a **dynamic FIFO (First In, First Out) data structure** designed for **Arduino and C++ projects**.
 It enables flexible memory management by allocating memory only when an element is added.
 
